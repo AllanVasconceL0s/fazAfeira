@@ -136,7 +136,7 @@ Adradecimentos especiasis para os contrinuintes deste projeto. Special thank you
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/157706379?v=4" width="100px;" alt="https://github.com/AllanVasconceL0s"/><br>
+        <img src="https://avatars.githubusercontent.com/u/157706379?v=4" width="100px;" alt="(https://github.com/AllanVasconceL0s)"/><br>
         <sub>
           <b>Allan Vasconcelos</b>
         </sub>
@@ -144,7 +144,7 @@ Adradecimentos especiasis para os contrinuintes deste projeto. Special thank you
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/184687405?v=4" width="100px;" alt="https://github.com/Bruno-h-Braga"/><br>
+        <img src="https://avatars.githubusercontent.com/u/184687405?v=4" width="100px;" alt="(https://github.com/Bruno-h-Braga)"/><br>
         <sub>
           <b>Bruno Braga</b>
         </sub>
@@ -152,7 +152,7 @@ Adradecimentos especiasis para os contrinuintes deste projeto. Special thank you
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/206132779?v=4" width="100px;" alt="https://github.com/glaucosantos002"/><br>
+        <img src="https://avatars.githubusercontent.com/u/206132779?v=4" width="100px;" alt="(https://github.com/glaucosantos002)"/><br>
         <sub>
           <b>Glauco Santos</b>
         </sub>
@@ -160,7 +160,7 @@ Adradecimentos especiasis para os contrinuintes deste projeto. Special thank you
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/184254021?v=4" width="100px;" alt="https://github.com/Danilo-ADS"/><br>
+        <img src="https://avatars.githubusercontent.com/u/184254021?v=4" width="100px;" alt="(https://github.com/Danilo-ADS)"/><br>
         <sub>
           <b>Danilo Novas</b>
         </sub>
