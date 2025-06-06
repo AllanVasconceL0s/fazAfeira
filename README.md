@@ -162,7 +162,7 @@ Adradecimentos especiasis para os contrinuintes deste projeto. Special thank you
       <a href="#">
         <img src="https://avatars.githubusercontent.com/u/184254021?v=4" width="100px;" alt="(https://github.com/Danilo-ADS)"/><br>
         <sub>
-          <b>[!Danilo Novas](https://github.com/Danilo-ADS)</b>
+          <b>Danilo Novas</b>
         </sub>
       </a>
     </td>
